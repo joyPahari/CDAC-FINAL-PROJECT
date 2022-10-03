@@ -36,4 +36,4 @@ This is a complete Spring-Boot web based application which can be easily downloa
 ![UseCase](https://github.com/hardikagarwal1703/CDAC-FINAL-PROJECT/blob/main/Documentation/UseCaseDiagram.jpg)
 
 ## ER Diagram
-![ERDiagram](https://github.com/hardikagarwal1703/CDAC-FINAL-PROJECT/blob/main/Documentation/ER%20Diagram/ER%20Diagram.pdf)
+![ERDiagram](https://github.com/hardikagarwal1703/CDAC-FINAL-PROJECT/blob/main/ER%20Diagram.jpg)
