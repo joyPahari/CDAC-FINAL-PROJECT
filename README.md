@@ -21,8 +21,7 @@ This is a complete open-source Spring-Boot web based application which can be ea
 ### Registration Success
 ![RegistrationSuccess](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/success.png)
 
-### Admin Dashbo
-ard
+### Admin Dashboard
 ![AdminDashboard](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/adminDashboard1.png)
 
 ### Student Dashboard
