@@ -29,11 +29,13 @@ ard
 ![StudentDashboard](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/dashboardStudent1.png)
 
 ### My Profile
-![MyProfile](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/commit/869168b941635839ac81347f4e9c917448c1c003)
+![MyProfile](https://github.com/hardikagarwal1703/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/Screenshot%20(1).png)
 
 ### Exam Screen
+![Exam](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/Exampage.png)
 
 ### Result Screen
+![Result](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/result2.png)
 
 ## Use-Case Diagram
 ![UseCase](https://github.com/hardikagarwal1703/CDAC-FINAL-PROJECT/blob/main/Documentation/UseCaseDiagram.jpg)
