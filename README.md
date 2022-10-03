@@ -21,13 +21,15 @@ This is a complete Spring-Boot web based application which can be easily downloa
 ### Registration Success
 ![RegistrationSuccess](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/success.png)
 
-### Admin Dashboard
+### Admin Dashbo
+ard
 ![AdminDashboard](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/adminDashboard1.png)
 
 ### Student Dashboard
 ![StudentDashboard](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/dashboardStudent1.png)
 
 ### My Profile
+![MyProfile](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/commit/869168b941635839ac81347f4e9c917448c1c003)
 
 ### Exam Screen
 
