@@ -57,5 +57,5 @@ This is a complete open-source Spring-Boot web based application which can be ea
 ![ERDiagram](https://github.com/hardikagarwal1703/CDAC-FINAL-PROJECT/blob/main/ER%20Diagram.jpg)
 
 
-#### For any queries please mail at hardikagarwal1703@gmail.com
+#### For any queries please mail at joypahari11@gmail.com
 #### Note: Refer to documentation files for better understanding.
