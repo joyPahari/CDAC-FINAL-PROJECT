@@ -25,9 +25,10 @@ This is a complete Spring-Boot web based application which can be easily downloa
 ![EmailService]()
 
 ### Admin Dashboard
-![AdminDashboard]()
+![AdminDashboard](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/adminDashboard1.png)
 
 ### Student Dashboard
+![StudentDashboard](https://github.com/CDAC-PGDAC-2203/CDAC-FINAL-PROJECT/blob/main/Documentation/screenshots/dashboardStudent1.png)
 
 ### My Profile
 
